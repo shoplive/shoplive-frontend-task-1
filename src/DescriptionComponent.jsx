@@ -6,7 +6,17 @@ const Goal = () => {
 
     <p>모든 문제를 완벽하게 풀지 못하셔도 됩니다. 
       <br/>최대한 비슷하게 구현하도록 노력하되, 할 수 있는데까지 하시면 됩니다. 
-      <br/>상황에 따라 다른 해결책을 제안해 주셔도 됩니다.
+      <br/>상황에 따라 다른 개선안을 적용해 주셔도 좋습니다.
+    </p>
+    <p>
+      Node 기준 버전 - v14<br/><br/>
+      제출 방법. <br/> 
+      - git private repository 생성, <br/>
+      - khw@shoplive.cloud, demian@shoplive.cloud 를 Collaborator 로 등록,<br/>
+      - 메일로 완성된 repo URL 보내주시면 됩니다.<br/><br/>
+      OR <br/><br/>
+      - git public repository 생성 <br/> 
+      - 메일로 완성된 repo URL 보내주시면 됩니다.
     </p>
 
 
