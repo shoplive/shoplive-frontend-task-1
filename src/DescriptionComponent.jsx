@@ -89,6 +89,13 @@ const Goal = () => {
     </div>
 
     <div className="wrap-quiz">
+      <h2>문제 9</h2>
+      <p>8자리의 랜덤 문자열을 생성하여, 헤더영역과 각 아이템의 사진 좌상단 영역에 표시하고 싶습니다. (예시 이미지 - 'ABCDEFH' 표시 된 영역 참고)</p>
+      <p>이를 위해 제공된 <mark><code>getRandomText(): Promise</code></mark> 함수를 사용해주세요. ('/src/random-text.js')</p>
+      <p>이 랜덤 문자열은 <strong>3초마다 새로운 문자열로 갱신</strong>되야 하고, <strong>모든 곳에서 동일한 문자열</strong>이 표시되야 합니다.</p>
+    </div>
+
+    <div className="wrap-quiz">
       <h3>App.jsx 에서, "DescriptionComponent"를 제거하고 문제를 푸시면 됩니다.</h3>
     </div>
 

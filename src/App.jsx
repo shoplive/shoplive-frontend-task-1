@@ -2,6 +2,7 @@ import "./App.scss";
 
 import { DUMMY } from './dummies'
 import DescriptionComponent from "./DescriptionComponent";
+// import { getRandomText } from "./random-text";
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
       {/* 아래 DescriptionComponent 는 제거하세요. */}
       <DescriptionComponent />
 
-      <header>SHOPLIVE</header>
+      <header><span>SHOPLIVE</span></header>
         <div>
           <input placeholder="검색" />
           <button>검색</button>
